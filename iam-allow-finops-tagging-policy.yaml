@@ -115,6 +115,7 @@ Resources:
               - sns:TagResource
               - states:TagResource
               - storagegateway:AddTagsToResource
+              - storagegateway:RemoveTagsFromResource
               - swf:TagResource
               - transfer:TagResource
               - waf-regional:TagResource
