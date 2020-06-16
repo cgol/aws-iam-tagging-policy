@@ -103,6 +103,7 @@ Resources:
               - quicksight:TagResource
               - ram:TagResource
               - rds:AddTagsToResource
+              - rds:RemoveTagsFromResource
               - resource-groups:Tag
               - robomaker:TagResource
               - sagemaker:AddTags
